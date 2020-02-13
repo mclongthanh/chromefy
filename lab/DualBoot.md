@@ -27,6 +27,8 @@ For any question, you can find us on telegram: https://t.me/chromeosforpc
       sudo su
 
       sudo bash /usr/sbin/dual-boot-install -d /dev/sda
+      
+      (or sudo bash /usr/sbin/dual-boot-install -d /dev/nvme0n1)
 
   - The script will start, it will ask for your consent, just accept. After the process is completed just type "reboot".
 
